@@ -1,0 +1,6 @@
+name:
+vs_Enterprise.exe
+link:
+https://aka.ms/vs/18/insiders/vs_Enterprise.exe
+zipBaseName:
+VS2026Enterprise.Insiders.
